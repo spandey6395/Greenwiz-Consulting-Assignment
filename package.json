@@ -1,0 +1,27 @@
+{
+  "name": "greenwiz_project",
+  "version": "1.0.0",
+  "description": "greenwiz project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spandey6395/Greenwiz-Consulting-Assignment.git"
+  },
+  "author": "Saurabh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spandey6395/Greenwiz-Consulting-Assignment.git"
+  },
+  "homepage": "https://github.com/spandey6395/Greenwiz-Consulting-Assignment.git",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "mime-types": "^2.1.35",
+    "request": "^2.88.2"
+  }
+}
